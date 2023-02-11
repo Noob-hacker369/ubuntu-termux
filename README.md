@@ -32,7 +32,7 @@
 
   - `yes | pkg upgrade`
   - `pkg install git wget -y`
-  - `git clone --depth=1 https://github.com/modded-ubuntu/modded-ubuntu.git`
+  - `git clone --depth=1 https://github.com/Noob-hacker369/ubuntu-termux/`
   - `cd modded-ubuntu`
   - `bash setup.sh`
 
